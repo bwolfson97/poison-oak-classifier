@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Don't let errors be silent
+set -e
+
+# Download model
+gdown https://drive.google.com/uc?id=1dIasg5zm0ZdTHLmjkwgIZrpit7LbKwCn
